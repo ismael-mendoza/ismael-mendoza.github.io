@@ -89,7 +89,7 @@
 
 - **Mendoza, I.**, Sainrat T., Boucaud A., Biswas B., Guinot A., Paillasa M., Joseph R., Burchat P., Kamath S., Buchanan J., Avestruz C., ``BlendingToolKit:  A framework for evaluation of galaxy deblenders'', *Monthly Notices of the Royal Astronomical Society*, in prep. to be sumbmitted to Journal of Open Source Software (JOSS).
 
-**Note:** Asterisk denote equal contribution.
+**Note:** Asterisks denote equal contribution.
 
 ## Teaching Experience
 
