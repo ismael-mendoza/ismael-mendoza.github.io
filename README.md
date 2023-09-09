@@ -13,7 +13,7 @@
 
 - **BS Physics with Honors** and Minor in Statistics, Stanford University, September 2014 -- June 2018
 
-  - **Honors Thesis**: *"No escape: light waves in AdS"* (<https://purl.stanford.edu/vf208qp2190>)
+- **Honors Thesis**: *"No escape: light waves in AdS"* (<https://purl.stanford.edu/vf208qp2190>)
 
 ## Research Experience
 
@@ -75,19 +75,21 @@
 
   - Presented work as my undergraduate Honors Thesis to the Stanford Physics Undergraduate Committee and at the Stanford Symposium of Undergraduate Research (SURPS).
 
-## Publications
+## Publications[^1]
 
 - **Mendoza, I.**, Mansfield, P., Wang, K., Avestruz, C., ``MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties'', *Monthly Notices of the Royal Astronomical Society*, Volume 523, Issue 4, August 2023, Pages 6386–6400, <https://doi.org/10.1093/mnras/stad1768>.
 
-- Wang M.,\footnote{Equal contribution} **Mendoza I.**, \footnote{Equal contribution} Wang C., Avestruz C., Regier J., ``Statistical Inference for Coadded Astronomical Images'', [arXiv:2211.09300](https://arxiv.org/abs/2211.09300). Accepted to the *Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS)*.
+- **Mendoza, I.**, Liu, R., Hansen, D., Zhao, Z., Pang, Z., Avestruz, C., Regier, J., and LSST Dark Energy Collaboration, ``Simulation-Based Inference for Probabilistic Light Source Detection, Deblending, and Measurement''. Submitted to the Dark Energy Science Collaboration (DESC) for internal review.
 
-- Hansen, D.,\footnote{Equal contribution} **Mendoza, I.**, \footnote{Equal contribution} Liu, R., Pang, Z., Zhao, Z., Avestruz, C., and Regier, J., ``Scalable Bayesian Inference for Detection and Deblending in Astronomical Images'', [arXiv:2207.05642](https://arxiv.org/abs/2207.05642). Accepted to the *ICML 2022 Workshop on Machine Learning for Astrophysics*.
+- Wang M.$^*$, **Mendoza I.**$^*$, \footnote{Equal contribution} Wang C., Avestruz C., Regier J., ``Statistical Inference for Coadded Astronomical Images'', [arXiv:2211.09300](https://arxiv.org/abs/2211.09300). Accepted to the *Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS)*.
+
+- Hansen, D.$^*$, **Mendoza, I.**$^*$, \footnote{Equal contribution} Liu, R., Pang, Z., Zhao, Z., Avestruz, C., and Regier, J., ``Scalable Bayesian Inference for Detection and Deblending in Astronomical Images'', [arXiv:2207.05642](https://arxiv.org/abs/2207.05642). Accepted to the *ICML 2022 Workshop on Machine Learning for Astrophysics*.
 
 - Sanchez, J., **Mendoza, I.**, Kirkby, D. P., Burchat, P. R., and LSST Dark Energy Science Collaboration, “Effects of overlapping sources on cosmic shear estimation: Statistical sensitivity and pixel-noise bias”, *Journal of Cosmology and Astroparticle Physics*, vol. 2021, no. 7, 2021. <https://doi.org/10.1088/1475-7516/2021/07/043>.
 
 - **Mendoza, I.**, Sainrat T., Boucaud A., Biswas B., Guinot A., Paillasa M., Joseph R., Burchat P., Kamath S., Buchanan J., Avestruz C., ``BlendingToolKit:  A framework for evaluation of galaxy deblenders'', *Monthly Notices of the Royal Astronomical Society*, in prep. to be sumbmitted to Journal of Open Source Software (JOSS).
 
-- **Mendoza, I.**, Liu, R., Hansen, D., Zhao, Z., Pang, Z., Avestruz, C., Regier, J., and LSST Dark Energy Collaboration, ``Simulation-Based Inference for Probabilistic Light Source Detection, Deblending, and Measurement''. Submitted to the Dark Energy Science Collaboration (DESC) for internal review.
+**Note:** Asterisk denote equal contribution.
 
 ## Teaching Experience
 
@@ -224,6 +226,3 @@
 - **MathStatBites at SCMA8: Astro Image Processing is BLISS?**, Andrew Saydjari for MathStatBites, <https://mathstatbites.org/mathstatbites-at-scma8-astro-image-processing-is-bliss/>
 
 - **The Crowded Cosmos: Effects of Blended Galaxies on Cosmic Shear**, Katya Gozman for AstroBites, <https://astrobites.org/2021/03/20/blended-galaxies-cosmic-shear/>
-
-
-
