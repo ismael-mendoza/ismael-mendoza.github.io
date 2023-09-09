@@ -75,7 +75,7 @@
 
   - Presented work as my undergraduate Honors Thesis to the Stanford Physics Undergraduate Committee and at the Stanford Symposium of Undergraduate Research (SURPS).
 
-## Publications[^1]
+## Publications
 
 - **Mendoza, I.**, Mansfield, P., Wang, K., Avestruz, C., ``MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties'', *Monthly Notices of the Royal Astronomical Society*, Volume 523, Issue 4, August 2023, Pages 6386–6400, <https://doi.org/10.1093/mnras/stad1768>.
 
