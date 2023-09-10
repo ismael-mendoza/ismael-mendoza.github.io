@@ -7,17 +7,17 @@
 
 ## Education
 
-- **PhD Physics and Scientific Computing** Candidate, Department of Physics, University of Michigan, September 2019 -- Present
+- **PhD Physics and Scientific Computing** Candidate, Department of Physics, University of Michigan, *September 2019 -- Present*
 
-- **MS Computer Science**, Stanford University, September 2018 -- June 2019
+- **MS Computer Science**, Stanford University, *September 2018 -- June 2019*
 
-- **BS Physics with Honors** and Minor in Statistics, Stanford University, September 2014 -- June 2018
+- **BS Physics with Honors** and Minor in Statistics, Stanford University, *September 2014 -- June 2018*
 
 - **Honors Thesis**: *"No escape: light waves in AdS"* (<https://purl.stanford.edu/vf208qp2190>)
 
 ## Research Experience
 
-- **Probabilistic Modeling with Machine Learning in Cosmology**, University of Michigan, MI, Advisor: Jeffrey Regier (Statistics), October 2019 -- Present
+- **Probabilistic Modeling with Machine Learning in Cosmology**, University of Michigan, MI, Advisor: Jeffrey Regier (Statistics), *October 2019 -- Present*
 
   - Lead maintainer and developer of [BLISS](https://github.com/prob-ml/bliss), an open-source Python package designed to measure visually overlapping (blended) galaxies in state-of-the-art astronomical surveys.
 
@@ -25,7 +25,7 @@
 
   - Created pipeline to train, validate, and test machine learning algorithms on real astronomical images.
 
-- **Leadership in Open Source Software Development**, University of Michigan, MI, Advisor: Camille Avestruz (Physics), June 2020 -- Present
+- **Leadership in Open Source Software Development**, University of Michigan, MI, Advisor: Camille Avestruz (Physics), *June 2020 -- Present*
 
   - Lead maintainer and developer of the [BlendingToolKit](https://github.com/LSSTDESC/BlendingToolKit), a software tool kit for evaluating performance metrics for detection, deblending and measurement algorithms, applied to images of blended galaxies.
 
@@ -33,7 +33,7 @@
 
   - Led team to extend user interface, incorporate realistic galaxy simulations, and create additional tutorials and documentation.
 
-- **Computational Cosmology**, University of Michigan, MI, Advisor: Camille Avestruz (Cosmology), September 2019 -- Present
+- **Computational Cosmology**, University of Michigan, MI, Advisor: Camille Avestruz (Cosmology), *September 2019 -- Present*
 
   - Using dark matter halo catalogs based on N-body simulations to tie together their dynamical history and snapshot properties.
 
@@ -41,7 +41,7 @@
 
   - Designed and executed statistical model to predict present-day dark matter halo properties from its accretion histories.
 
-- **Observational Cosmology and Data Analysis**, Stanford, CA, Advisor: Patricia Burchat (Cosmology), June 2015 -- April 2021
+- **Observational Cosmology and Data Analysis**, Stanford, CA, Advisor: Patricia Burchat (Cosmology), *June 2015 -- April 2021*
 
   - Developed a statistical framework for weak gravitational lensing that provides a comprehensive analysis of shape measurement noise bias for blended galaxies.
 
@@ -49,13 +49,13 @@
 
   - Publication accepted to the Journal of Cosmology and Astrophysics (JCAP).
 
-- **Biostatistics**, Stanford, CA, Advisor: Julia Palacios (Statistics and Biomedical Data Science), September 2018 -- June 2019
+- **Biostatistics**, Stanford, CA, Advisor: Julia Palacios (Statistics and Biomedical Data Science), *September 2018 -- June 2019*
 
   - Implemented efficient algorithms for calculating the likelihood of phylogenetic trees simulated from coalescent models.
 
   - Developed Bayesian statistical framework to calculate the probability of correct classification between two different population size histories for large sample sizes and loci.
 
-- **Convex Optimization**, EPFL, Switzerland, Advisor: Nisheeth Vishnoi (Theoretical Computer Science), June 2018 -- September 2018
+- **Convex Optimization**, EPFL, Switzerland, Advisor: Nisheeth Vishnoi (Theoretical Computer Science), *June 2018 -- September 2018*
 
   - Participated in Summer@EPFL CS program at the \'Ecole polytechnique f\'ed\'erale de Lausanne (EPFL).
 
@@ -65,7 +65,7 @@
 
   - Used non-convex optimization techniques to mathematically show the high efficiency of my algorithm.
 
-- **General Relativity and Field Theory Honors Thesis**, Stanford, CA, Advisor: Eva Silverstein (Cosmology), June 2017 -- June 2018
+- **General Relativity and Field Theory Honors Thesis**, Stanford, CA, Advisor: Eva Silverstein (Cosmology), *June 2017 -- June 2018*
 
   - Developed a framework for understanding scattering processes in manifolds by combining insights from quantum scattering theory, differential geometry, and partial differential equations.
 
@@ -99,7 +99,7 @@
 
   - Helped with the development of course materials for this brand new course and midterm/final project.
 
-- **Instructor**, Summer Program in Quantitative Methods for Social Research, University of Michigan, July 2022
+- **Instructor**, Summer Program in Quantitative Methods for Social Research, University of Michigan, *July 2022*
 
   - **Course**: Introduction to Python
 
@@ -147,7 +147,7 @@
 
 - **Physics Graduate Council at the University of Michigan**: Organize social events to help build community at the Physics department.
 
-- **Life in Graduate School Seminar Council at the University of Michigan**: Organize bi-weekly seminars for Physics graduate students to learn about resources at the university that can help them during their PhD. (2022 -- 2023)
+- **Life in Graduate School Seminar Council at the University of Michigan**: Organize bi-weekly seminars for Physics graduate students to learn about resources at the university that can help them during their PhD. *2022 -- 2023*
 
 ## Skills
 
@@ -179,43 +179,43 @@
 
 ## Presentations
 
-- **The Blending Problem in Cosmology**, Ismael Mendoza, Invited talk at the KIPAC Tea, Kavli Institute for Particle Astrophysics and Cosmology at Stanford University, Stanford, CA, July 2023
+- **The Blending Problem in Cosmology**, Ismael Mendoza, Invited talk at the KIPAC Tea, Kavli Institute for Particle Astrophysics and Cosmology at Stanford University, Stanford, CA, *July 2023*
 
-- **Bayesian Light Source Separator (BLISS): Probabilistic detection, deblending and measurement of astronomical light sources**, Ismael Mendoza, Invited talk at Statistical Challenges in Modern Astronomy VIII, Pennsylvania State University, State College, PA, June 2023
+- **Bayesian Light Source Separator (BLISS): Probabilistic detection, deblending and measurement of astronomical light sources**, Ismael Mendoza, Invited talk at Statistical Challenges in Modern Astronomy VIII, Pennsylvania State University, State College, PA, *June 2023*
 
-- **MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties**, Ismael Mendoza, Invited talk at the Baryon Pasting Collaboration Meeting, Yale University, New Haven, CT, May 2023
+- **MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties**, Ismael Mendoza, Invited talk at the Baryon Pasting Collaboration Meeting, Yale University, New Haven, CT, *May 2023*
 
-- **MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties**, Ismael Mendoza, The Co-evolution of the Cosmic Web and Galaxies across Cosmic Time Conference Poster Session, Kavli Institute for Theoretical Physics (KITP), Santa Barbara, CA, February 2023
+- **MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties**, Ismael Mendoza, The Co-evolution of the Cosmic Web and Galaxies across Cosmic Time Conference Poster Session, Kavli Institute for Theoretical Physics (KITP), Santa Barbara, CA, *February 2023*
 
-- **Statistical Inference for Coadded Astronomical Images**, Mallory Wang and Ismael Mendoza, Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS 2022) Poster Session, New Orleans, LA, December 2022
+- **Statistical Inference for Coadded Astronomical Images**, Mallory Wang and Ismael Mendoza, Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS 2022) Poster Session, New Orleans, LA, *December 2022*
 
-- **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer Meeting Poster Session, Chicago, IL., August 2022
+- **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer Meeting Poster Session, Chicago, IL., *August 2022*
 
-- **Scalable Bayesian Inference for Detection and Deblending in Astronomical Images**, Ismael Mendoza, ICML 2022 Workshop on Machine Learning for Astrophysics Poster Session, Baltimore, MA, July 2022
+- **Scalable Bayesian Inference for Detection and Deblending in Astronomical Images**, Ismael Mendoza, ICML 2022 Workshop on Machine Learning for Astrophysics Poster Session, Baltimore, MA, *July 2022*
 
-- **Machine Learning in Cosmology**, Ismael Mendoza, Physics Graduate Student Symposium 2022, Ann Arbor, MI, June 2022
+- **Machine Learning in Cosmology**, Ismael Mendoza, Physics Graduate Student Symposium 2022, Ann Arbor, MI, *June 2022*
 
-- **Updates on the Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Bayesian Pipelines Topical Team Telecon, April 2022 (virtual)
+- **Updates on the Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Bayesian Pipelines Topical Team Telecon, *April 2022*(virtual)
 
 - **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Winter 2022 Virtual Meeting Poster Session, February 2022 (virtual)
 
-- **BLISS Update**, Ismael Mendoza, DESC Blending Working Group. February 2022 (virtual)
+- **BLISS Update**, Ismael Mendoza, DESC Blending Working Group. *February 2022* (virtual)
 
-- **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting Poster Session, July 2021 (virtual)
+- **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting Poster Session, *July 2021* (virtual)
 
-- **(Updated) Blending ToolKit Tutorial**, Ismael Mendoza, Thomas Sainrat, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting, July 2021 (virtual)
+- **(Updated) Blending ToolKit Tutorial**, Ismael Mendoza, Thomas Sainrat, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting, *July 2021* (virtual)
 
-- **Connecting the Properties of Dark Matter Haloes with Their Growth**, Ismael Mendoza, University of Michigan Clusters Group, Ann Arbor, MI, March 2021 (virtual)
+- **Connecting the Properties of Dark Matter Haloes with Their Growth**, Ismael Mendoza, University of Michigan Clusters Group, Ann Arbor, MI, *March 2021* (virtual)
 
-- **Effects of overlapping sources on cosmic shear estimation: Statistical sensitivity and pixel-noise bias**, Javier Sanchez & Ismael Mendoza, Collaboration-Wide Presentation for the Dark Energy Science Collaboration (DESC). February 2021 (virtual)
+- **Effects of overlapping sources on cosmic shear estimation: Statistical sensitivity and pixel-noise bias**, Javier Sanchez & Ismael Mendoza, Collaboration-Wide Presentation for the Dark Energy Science Collaboration (DESC). *February 2021* (virtual)
 
-- **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2020 Virtual Meeting Poster Session, Chicago, IL. July 2020 (virtual)
+- **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2020 Virtual Meeting Poster Session, Chicago, IL. *July 2020*(virtual)
 
-- **BlendingToolKit Tutorial**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2020 Virtual Meeting, Chicago, IL, July 2020 (virtual)
+- **BlendingToolKit Tutorial**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2020 Virtual Meeting, Chicago, IL, *July 2020* (virtual)
 
-- **The Blending Problem in Cosmology**, Ismael Mendoza, Physics Graduate Student Symposium 2020, Ann Arbor, MI, July 2020 (virtual)
+- **The Blending Problem in Cosmology**, Ismael Mendoza, Physics Graduate Student Symposium 2020, Ann Arbor, MI, *July 2020* (virtual)
 
-- **BlendingToolKit: Walkthrough and Future Plans**, Ismael Mendoza, DESC Blending Working Group. July 2020 (virtual)
+- **BlendingToolKit: Walkthrough and Future Plans**, Ismael Mendoza, DESC Blending Working Group. *July 2020* (virtual)
 
 ## Blog Posts
 
