@@ -81,9 +81,9 @@
 
 - **Mendoza, I.**, Liu, R., Hansen, D., Zhao, Z., Pang, Z., Avestruz, C., Regier, J., and LSST Dark Energy Collaboration, ``Simulation-Based Inference for Probabilistic Light Source Detection, Deblending, and Measurement''. Submitted to the Dark Energy Science Collaboration (DESC) for internal review.
 
-- Wang M.$^*$, **Mendoza I.**$^*$, \footnote{Equal contribution} Wang C., Avestruz C., Regier J., ``Statistical Inference for Coadded Astronomical Images'', [arXiv:2211.09300](https://arxiv.org/abs/2211.09300). Accepted to the *Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS)*.
+- Wang M.<sup>\*</sup>, **Mendoza I.**<sup>\*</sup>, \footnote{Equal contribution} Wang C., Avestruz C., Regier J., ``Statistical Inference for Coadded Astronomical Images'', [arXiv:2211.09300](https://arxiv.org/abs/2211.09300). Accepted to the*Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS)*.
 
-- Hansen, D.$^*$, **Mendoza, I.**$^*$, \footnote{Equal contribution} Liu, R., Pang, Z., Zhao, Z., Avestruz, C., and Regier, J., ``Scalable Bayesian Inference for Detection and Deblending in Astronomical Images'', [arXiv:2207.05642](https://arxiv.org/abs/2207.05642). Accepted to the *ICML 2022 Workshop on Machine Learning for Astrophysics*.
+- Hansen, D.<sup>\*</sup>, **Mendoza, I.**<sup>\*</sup>, \footnote{Equal contribution} Liu, R., Pang, Z., Zhao, Z., Avestruz, C., and Regier, J., ``Scalable Bayesian Inference for Detection and Deblending in Astronomical Images'', [arXiv:2207.05642](https://arxiv.org/abs/2207.05642). Accepted to the*ICML 2022 Workshop on Machine Learning for Astrophysics*.
 
 - Sanchez, J., **Mendoza, I.**, Kirkby, D. P., Burchat, P. R., and LSST Dark Energy Science Collaboration, “Effects of overlapping sources on cosmic shear estimation: Statistical sensitivity and pixel-noise bias”, *Journal of Cosmology and Astroparticle Physics*, vol. 2021, no. 7, 2021. <https://doi.org/10.1088/1475-7516/2021/07/043>.
 
