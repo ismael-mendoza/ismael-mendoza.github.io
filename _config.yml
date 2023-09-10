@@ -4,4 +4,4 @@ title: Ismael Mendoza
 description: I'm a fifth-year Physics PhD student at the University of Michigan. My research focuses in developing novel statistical techniques to solve problems in cosmology.
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
