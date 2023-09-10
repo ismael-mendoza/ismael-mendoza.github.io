@@ -117,7 +117,6 @@
 - **Physics Teaching Assistant at the University of Michigan**, Ann Arbor, MI
 
   - **Courses**:
-
     - Physics 136: Physics for the Life Sciences Laboratory I, *September 2019 -- December 2019*
     - Physics 141: Elementary Laboratory I, *January 2020 -- April 2020*
     - Physics 453: Quantum Mechanics, *January 2022 -- April 2022*
@@ -128,7 +127,6 @@
 - **Physics Teaching Assistant at Stanford University**, Stanford, CA
 
   - **Courses**:
-
     - Physics 21: Mechanics, Fluids, and Heat, *September 2018 -- December 2018*
     - Physics 70: Foundations of Modern Physics, *September 2017 -- December 2017*
 
