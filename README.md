@@ -95,9 +95,7 @@
 
 - **Course development at the University of Michigan**, Ann Arbor, MI
 
-  - **Courses**:
-
-    - Physics 104: Introduction to Python Programming \hfill *July 2022*
+  - **Course**: Physics 104: Introduction to Python Programming, *July 2022*
 
   - Helped with the development of course materials for this brand new course and midterm/final project.
 
@@ -110,9 +108,7 @@
 
 - **Statistics Teaching Assistant at the University of Michigan**, Ann Arbor, MI
 
-  - **Courses**:
-
-    - Statistics 507: Data Science and Analytics using Python \hfill *August 2020 -- December 2020*
+  - **Course**: Statistics 507: Data Science and Analytics using Python, *August 2020 -- December 2020*
 
   - Led discussions sections to help students understand Python's scientific computing stack, relational databases (SQL), and deep learning using \pytorch.
   - Designed and graded weekly programming assignments.
@@ -122,9 +118,9 @@
 
   - **Courses**:
 
-    - Physics 136: Physics for the Life Sciences Laboratory I \hfill *September 2019 -- December 2019*
-    - Physics 141: Elementary Laboratory I \hfill *January 2020 -- April 2020*
-    - Physics 453: Quantum Mechanics \hfill *January 2022 -- April 2022*
+    - Physics 136: Physics for the Life Sciences Laboratory I, *September 2019 -- December 2019*
+    - Physics 141: Elementary Laboratory I, *January 2020 -- April 2020*
+    - Physics 453: Quantum Mechanics, *January 2022 -- April 2022*
 
   - Guided students through a series of physics experiments including analysis of their measurements.
   - Facilitated group discussions and provided regular feedback on student's performance.
@@ -133,15 +129,15 @@
 
   - **Courses**:
 
-    - Physics 21: Mechanics, Fluids, and Heat \hfill *September 2018 -- December 2018*
-    - Physics 70: Foundations of Modern Physics \hfill *September 2017 -- December 2017*
+    - Physics 21: Mechanics, Fluids, and Heat, *September 2018 -- December 2018*
+    - Physics 70: Foundations of Modern Physics, *September 2017 -- December 2017*
 
   - Designed and graded weekly problem sets, quizzes, and exams.
   - Lead weekly problem-solving sessions aimed at reinforcing student's understanding of lecture.
 
-- **EPASA**: Tutored middle school student in Math and English. \hfill *September 2016 -- June 2018*
+- **EPASA**: Tutored middle school student in Math and English. *September 2016 -- June 2018*
 
-- **Habla**: Tutored Stanford custodial staff in English 3 hours/week. \hfill *September 2014 -- June 2018*
+- **Habla**: Tutored Stanford custodial staff in English 3 hours/week. *September 2014 -- June 2018*
 
 ## Leadership Roles
 
@@ -167,13 +163,13 @@
 
 - **Leinweber Center for Theoretical Physics Summer Fellowship** -- UofM Physics Department, *2023*
 
-- **Walter F. Lewis Candidacy Fellowship** -- University of Michigan Physics Department,  *2022*
+- **Walter F. Lewis Candidacy Fellowship** -- University of Michigan Physics Department, *2022*
 
-- **Science Communication Fellowship** -- University of Michigan Museum of Natural History,  *2022*
+- **Science Communication Fellowship** -- University of Michigan Museum of Natural History, *2022*
 
-- **Computational and Data Science Fellowship** -- ACM’s Special Interest Group on High Performance Computing (SIGHPC),  *2021*
+- **Computational and Data Science Fellowship** -- ACM’s Special Interest Group on High Performance Computing (SIGHPC), *2021*
 
-- **Graduate Fellowship** -- Michigan Institute for Computational Discovery & Engineering,  *2021*
+- **Graduate Fellowship** -- Michigan Institute for Computational Discovery & Engineering, *2021*
 
 - **Enabling Science Award** -- Large Synoptic Survey Telescope Corporation, *2016 \& 2021*
 
@@ -221,7 +217,7 @@
 
 - **BlendingToolKit: Walkthrough and Future Plans**, Ismael Mendoza, DESC Blending Working Group. July 2020 (virtual)
 
-## Blogs
+## Blog Posts
 
 - **MathStatBites at SCMA8: Astro Image Processing is BLISS?**, Andrew Saydjari for MathStatBites, <https://mathstatbites.org/mathstatbites-at-scma8-astro-image-processing-is-bliss/>
 
