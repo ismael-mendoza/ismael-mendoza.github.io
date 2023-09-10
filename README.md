@@ -110,7 +110,7 @@
 
   - **Course**: Statistics 507: Data Science and Analytics using Python, *August 2020 -- December 2020*
 
-  - Led discussions sections to help students understand Python's scientific computing stack, relational databases (SQL), and deep learning using \pytorch.
+  - Led discussions sections to help students understand Python's scientific computing stack, relational databases (SQL), and deep learning using `pytorch`.
   - Designed and graded weekly programming assignments.
   - Planned and executed a `kaggle` competition as their final project.
 
@@ -153,9 +153,9 @@
 
 - **Python**: 7+ years of experience in using Python for coursework and several research projects, including comprehensive knowledge of its scientific computing stack: `numpy`, `scipy`, `scikit-learn`, `pandas`, `matplotlib`.
 
-- **Machine Learning**: Extensive experience designing and testing neural networks in \pytorch, developing ML pipelines for complex science applications, and knowledge of cutting-edge algorithms including variational autoencoders and normalizing flows.
+- **Machine Learning**: Extensive experience designing and testing neural networks in `pytorch`, developing ML pipelines for complex science applications, and knowledge of cutting-edge algorithms including variational autoencoders and normalizing flows.
 
-- **Other Programming Languages**: C/C++, \LaTeX, Mathematica, Unix shell, Git, R
+- **Other Programming Languages**: C/C++, LaTeX, Mathematica, Unix shell, Git, R
 
 - **Languages**: Native Spanish speaker
 
@@ -171,7 +171,7 @@
 
 - **Graduate Fellowship** -- Michigan Institute for Computational Discovery & Engineering, *2021*
 
-- **Enabling Science Award** -- Large Synoptic Survey Telescope Corporation, *2016 \& 2021*
+- **Enabling Science Award** -- Large Synoptic Survey Telescope Corporation, *2016 & 2021*
 
 - **Research Grant** -- Stanford Undergraduate Advising and Research,  *2017*
 
@@ -207,7 +207,7 @@
 
 - **Connecting the Properties of Dark Matter Haloes with Their Growth**, Ismael Mendoza, University of Michigan Clusters Group, Ann Arbor, MI, March 2021 (virtual)
 
-- **Effects of overlapping sources on cosmic shear estimation: Statistical sensitivity and pixel-noise bias**, Javier Sanchez \& Ismael Mendoza, Collaboration-Wide Presentation for the Dark Energy Science Collaboration (DESC). February 2021 (virtual)
+- **Effects of overlapping sources on cosmic shear estimation: Statistical sensitivity and pixel-noise bias**, Javier Sanchez & Ismael Mendoza, Collaboration-Wide Presentation for the Dark Energy Science Collaboration (DESC). February 2021 (virtual)
 
 - **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2020 Virtual Meeting Poster Session, Chicago, IL. July 2020 (virtual)
 
