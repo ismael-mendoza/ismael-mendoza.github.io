@@ -1,5 +1,7 @@
 # Ismael Mendoza
 
+[Education](#education) | [Research Experience](#research-experience) | [Publications](#publications) | [Teaching Experience](#teaching-experience) | [Leadership Roles](#leadership-roles) | [Skills](#skills) | [Honors and Awards](#honors-and-awards) | [Presentations](#presentations) | [Blog Posts](#blog-posts)
+
 - **Website**: <https://ismael-mendoza.github.io>
 - **Github**: <https://github.com/ismael-mendoza>
 - **Email**: <imendoza@umich.edu>
