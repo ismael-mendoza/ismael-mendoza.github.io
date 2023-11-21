@@ -9,7 +9,7 @@
 
 ## Education
 
-- **PhD Physics and Scientific Computing** Candidate, Department of Physics, University of Michigan, *September 2019 -- Present*
+- **PhD Physics and Scientific Computing Candidate**, Department of Physics, University of Michigan, *September 2019 -- Present*
 
 - **MS Computer Science**, Stanford University, *September 2018 -- June 2019*
 
@@ -19,63 +19,70 @@
 
 ## Research Experience
 
-- **Probabilistic Modeling with Machine Learning in Cosmology**, University of Michigan, MI, Advisor: Jeffrey Regier (Statistics), *October 2019 -- Present*
+**Probabilistic Modeling with Machine Learning in Cosmology**, University of Michigan, *October 2019 -- Present* <br />
+*Advisor:* Jeffrey Regier (Statistics)
 
-  - Lead maintainer and developer of [BLISS](https://github.com/prob-ml/bliss), an open-source Python package designed to measure visually overlapping (blended) galaxies in state-of-the-art astronomical surveys.
+- Lead maintainer and developer of [BLISS](https://github.com/prob-ml/bliss), an open-source Python package designed to measure visually overlapping (blended) galaxies in state-of-the-art astronomical surveys.
 
-  - Built probabilistic model to measure blended galaxy images using latest algorithms in variational inference and deep generative modeling.
+- Built probabilistic model to measure blended galaxy images using latest algorithms in variational inference and deep generative modeling.
 
-  - Created pipeline to train, validate, and test machine learning algorithms on real astronomical images.
+- Created pipeline to train, validate, and test machine learning algorithms on real astronomical images.
 
-- **Leadership in Open Source Software Development**, University of Michigan, MI, Advisor: Camille Avestruz (Physics), *June 2020 -- Present*
+**Leadership in Open Source Software Development**, University of Michigan, *June 2020 -- Present* <br />
+*Advisor:* Camille Avestruz (Physics)
 
-  - Lead maintainer and developer of the [BlendingToolKit](https://github.com/LSSTDESC/BlendingToolKit), a software tool kit for evaluating performance metrics for detection, deblending and measurement algorithms, applied to images of blended galaxies.
+- Lead maintainer and developer of the [BlendingToolKit](https://github.com/LSSTDESC/BlendingToolKit), a software tool kit for evaluating performance metrics for detection, deblending and measurement algorithms, applied to images of blended galaxies.
 
-  - Presented software tutorials at collaboration meetings, which recruited a team of contributors.
+- Presented software tutorials at collaboration meetings, which recruited a team of contributors.
 
-  - Led team to extend user interface, incorporate realistic galaxy simulations, and create additional tutorials and documentation.
+- Led team to extend user interface, incorporate realistic galaxy simulations, and create additional tutorials and documentation.
 
-- **Computational Cosmology**, University of Michigan, MI, Advisor: Camille Avestruz (Cosmology), *September 2019 -- Present*
+**Computational Cosmology**, University of Michigan, *September 2019 -- Present* <br />
+*Advisor:* Camille Avestruz (Physics)
 
-  - Using dark matter halo catalogs based on N-body simulations to tie together their dynamical history and snapshot properties.
+- Using dark matter halo catalogs based on N-body simulations to tie together their dynamical history and snapshot properties.
 
-  - Created pipeline to easily extract dark matter halo present-day properties, merger tree information, and subhalo information for a random subset of haloes at fixed mass.
+- Created pipeline to easily extract dark matter halo present-day properties, merger tree information, and subhalo information for a random subset of haloes at fixed mass.
 
-  - Designed and executed statistical model to predict present-day dark matter halo properties from its accretion histories.
+- Designed and executed statistical model to predict present-day dark matter halo properties from its accretion histories.
 
-- **Observational Cosmology and Data Analysis**, Stanford, CA, Advisor: Patricia Burchat (Cosmology), *June 2015 -- April 2021*
+**Observational Cosmology and Data Analysis**, Stanford University, *June 2015 -- April 2021* <br />
+Advisor: Patricia Burchat (Cosmology)
 
-  - Developed a statistical framework for weak gravitational lensing that provides a comprehensive analysis of shape measurement noise bias for blended galaxies.
+- Developed a statistical framework for weak gravitational lensing that provides a comprehensive analysis of shape measurement noise bias for blended galaxies.
 
-  - Assessed the impact of blending on cosmic shear estimation for several astronomical surveys.
+- Assessed the impact of blending on cosmic shear estimation for several astronomical surveys.
 
-  - Publication accepted to the Journal of Cosmology and Astrophysics (JCAP).
+- Publication accepted to the Journal of Cosmology and Astrophysics (JCAP).
 
-- **Biostatistics**, Stanford, CA, Advisor: Julia Palacios (Statistics and Biomedical Data Science), *September 2018 -- June 2019*
+**Biostatistics**, Stanford University, *September 2018 -- June 2019* <br />
+Advisor: Julia Palacios (Statistics and Biomedical Data Science)
 
-  - Implemented efficient algorithms for calculating the likelihood of phylogenetic trees simulated from coalescent models.
+- Implemented efficient algorithms for calculating the likelihood of phylogenetic trees simulated from coalescent models.
 
-  - Developed Bayesian statistical framework to calculate the probability of correct classification between two different population size histories for large sample sizes and loci.
+- Developed Bayesian statistical framework to calculate the probability of correct classification between two different population size histories for large sample sizes and loci.
 
-- **Convex Optimization**, EPFL, Switzerland, Advisor: Nisheeth Vishnoi (Theoretical Computer Science), *June 2018 -- September 2018*
+**Convex Optimization**, EPFL, *June 2018 -- September 2018* <br />
+Advisor: Nisheeth Vishnoi (Theoretical Computer Science)
 
-  - Participated in Summer@EPFL CS program at the \'Ecole polytechnique f\'ed\'erale de Lausanne (EPFL).
+- Participated in Summer@EPFL CS program at the \'Ecole polytechnique f\'ed\'erale de Lausanne (EPFL).
 
-  - Designed and executed a project at interface of optimization, cosmology, and Riemannian geometry.
+- Designed and executed a project at interface of optimization, cosmology, and Riemannian geometry.
 
-  - Developed manifold optimization algorithms to measure galaxy shapes from surface brightness profiles.
+- Developed manifold optimization algorithms to measure galaxy shapes from surface brightness profiles.
 
-  - Used non-convex optimization techniques to mathematically show the high efficiency of my algorithm.
+- Used non-convex optimization techniques to mathematically show the high efficiency of my algorithm.
 
-- **General Relativity and Field Theory Honors Thesis**, Stanford, CA, Advisor: Eva Silverstein (Cosmology), *June 2017 -- June 2018*
+**General Relativity and Field Theory Honors Thesis**, Stanford University, *June 2017 -- June 2018* <br />
+Advisor: Eva Silverstein (Cosmology)
 
-  - Developed a framework for understanding scattering processes in manifolds by combining insights from quantum scattering theory, differential geometry, and partial differential equations.
+- Developed a framework for understanding scattering processes in manifolds by combining insights from quantum scattering theory, differential geometry, and partial differential equations.
 
-  - Applied framework to successfully resolve paradox of light waves traveling in Anti-de Sitter space.
+- Applied framework to successfully resolve paradox of light waves traveling in Anti-de Sitter space.
 
-  - Simulated complex wave scattering processes using Mathematica.
+- Simulated complex wave scattering processes using Mathematica.
 
-  - Presented work as my undergraduate Honors Thesis to the Stanford Physics Undergraduate Committee and at the Stanford Symposium of Undergraduate Research (SURPS).
+- Presented work as my undergraduate Honors Thesis to the Stanford Physics Undergraduate Committee and at the Stanford Symposium of Undergraduate Research (SURPS).
 
 ## Publications
 
@@ -160,6 +167,8 @@
 - **Languages**: Native Spanish speaker
 
 ## Honors and Awards
+
+- **Department Fellowship, Knoller Fund** -- UofM Physics Department, *2024*
 
 - **Leinweber Center for Theoretical Physics Summer Fellowship** -- UofM Physics Department, *2023*
 
