@@ -1,6 +1,6 @@
 # Ismael Mendoza
 
-[Education](#education)|[Research Experience](#research-experience)|[Publications](#publications)|[Teaching Experience](#teaching-experience)|[Leadership Roles](#leadership-roles)|[Skills](#skills)|[Honors and Awards](#honors-and-awards)|[Presentations](#presentations)|[Blog Posts](#blog-posts)
+[Education](#education) | [Research](#research) | [Publications](#publications) | [Teaching](#teaching) | [Leadership](#leadership-roles) | [Skills](#skills) | [Awards](#honors-and-awards) | [Presentations](#presentations) | [Blog Posts](#blog-posts)
 
 - **Website**: <https://ismael-mendoza.github.io>
 - **Github**: <https://github.com/ismael-mendoza>
@@ -17,7 +17,7 @@
 
 - **Honors Thesis**: *"No escape: light waves in AdS"* (<https://purl.stanford.edu/vf208qp2190>)
 
-## Research Experience
+## Research
 
 **Probabilistic Modeling with Machine Learning in Cosmology**, University of Michigan, *October 2019 -- Present* <br />
 *Advisor:* Jeffrey Regier (Statistics)
@@ -100,7 +100,7 @@ Advisor: Eva Silverstein (Cosmology)
 
 **Note:** Asterisks denote equal contribution.
 
-## Teaching Experience
+## Teaching
 
 - **Course development at the University of Michigan**, Ann Arbor, MI
 
