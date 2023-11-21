@@ -1,6 +1,6 @@
----
----
+--- --- @import "{{ site.theme }}";
 
-@import "{{ site.theme }}";
-
-$max-width:100%;
+.wrapper {
+    margin: 0 auto;
+    /* Adjust the margin as needed */
+}
