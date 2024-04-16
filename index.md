@@ -3,10 +3,20 @@ layout: home
 title: Home Page
 ---
 
-# Welcome to My Website
+# Ismael Mendoza's Website
 
-This is the home page of my academic website. Here you can find links to my projects, publications, and more.
+<p align="center">
+    <img src="./images/my-picture.jpg" alt="headshot" width="500"/>
+</p>
 
-- [About Me](/about/)
+Hi, I'm Ismael! I'm a fifth-year Physics PhD student at the [University of Michigan](https://lsa.umich.edu/physics)
+advised by [Camille Avestruz](https://sites.google.com/view/camilleavestruz). I completed by BS in 
+Physics (2018) and MS in Computer Science (2019) at Stanford University, where I was advised by 
+[Patricia Burchat](https://profiles.stanford.edu/patricia-burchat).
+
+This is my personal academic website, here you can find information about my current projects,
+publications, and more:
+
 - [My Projects](/projects/)
 - [My Publications](/publications/)
+- [CV](https://github.com/ismael-mendoza/CV/blob/main/cv.pdf)
