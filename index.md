@@ -18,7 +18,7 @@ publications, and more:
 - [My Projects](/projects/)
 - [My Publications](/publications/)
 - [My Talks](/talks/)
-- [CV](https://github.com/ismael-mendoza/CV/blob/main/cv.pdf)
+- [CV](https://raw.githubusercontent.com/ismael-mendoza/CV/main/cv.pdf)
 
 ## Contact and personal links
 
