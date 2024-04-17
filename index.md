@@ -22,6 +22,6 @@ publications, and more:
 
 ## Personal Links
 
-**Github**: <https://github.com/ismael-mendoza>
-**Email**: <imendoza@umich.edu>
-**ORCID**: <https://orcid.org/0000-0002-6313-4597>
+- **Email**: <imendoza@umich.edu>
+
+- **ORCID**: <https://orcid.org/0000-0002-6313-4597>
