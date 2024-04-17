@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-## Publications
-
 - **Mendoza, I.**, Mansfield, P., Wang, K., Avestruz, C., "MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties", *Monthly Notices of the Royal Astronomical Society*, Volume 523, Issue 4, August 2023, Pages 6386–6400, <https://doi.org/10.1093/mnras/stad1768>.
 
 - **Mendoza, I.**, Liu, R., Hansen, D., Zhao, Z., Pang, Z., Avestruz, C., Regier, J., and LSST Dark Energy Collaboration, "Simulation-Based Inference for Probabilistic Light Source Detection, Deblending, and Measurement". Submitted to the Dark Energy Science Collaboration (DESC) for internal review.
@@ -24,3 +22,11 @@ permalink: /publications/
 
 - [Google Scholar](https://scholar.google.com/citations?user=8oCNZl4AAAAJ&hl=en)
 - [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FMendoza%2C%20I%2FMendoza%2C%20Ismael%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FMendoza%2C%20I%2FMendoza%2C%20Ismael%22)&q=author%3A%22Mendoza%2C%20Ismael%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
+## Blog Posts
+
+These are some blog posts others have written about my work!
+
+- **MathStatBites at SCMA8: Astro Image Processing is BLISS?**, Andrew Saydjari for MathStatBites, <https://mathstatbites.org/mathstatbites-at-scma8-astro-image-processing-is-bliss/>
+
+- **The Crowded Cosmos: Effects of Blended Galaxies on Cosmic Shear**, Katya Gozman for AstroBites, <https://astrobites.org/2021/03/20/blended-galaxies-cosmic-shear/>
