@@ -20,7 +20,7 @@ publications, and more:
 - [My Talks](/talks/)
 - [CV](https://github.com/ismael-mendoza/CV/blob/main/cv.pdf)
 
-## Personal Links
+## Contact and personal links
 
 - **Email**: <imendoza@umich.edu>
 
