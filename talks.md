@@ -4,8 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-## Presentations
-
 - **The Blending Problem in Cosmology**, Ismael Mendoza, Invited talk at the KIPAC Tea, Kavli Institute for Particle Astrophysics and Cosmology at Stanford University, Stanford, CA, *July 2023*
 
 - **Bayesian Light Source Separator (BLISS): Probabilistic detection, deblending and measurement of astronomical light sources**, Ismael Mendoza, Invited talk at Statistical Challenges in Modern Astronomy VIII, Pennsylvania State University, State College, PA, *June 2023*
@@ -44,8 +42,3 @@ permalink: /talks/
 
 - **BlendingToolKit: Walkthrough and Future Plans**, Ismael Mendoza, DESC Blending Working Group. *July 2020* (virtual)
 
-## Blog Posts
-
-- **MathStatBites at SCMA8: Astro Image Processing is BLISS?**, Andrew Saydjari for MathStatBites, <https://mathstatbites.org/mathstatbites-at-scma8-astro-image-processing-is-bliss/>
-
-- **The Crowded Cosmos: Effects of Blended Galaxies on Cosmic Shear**, Katya Gozman for AstroBites, <https://astrobites.org/2021/03/20/blended-galaxies-cosmic-shear/>
