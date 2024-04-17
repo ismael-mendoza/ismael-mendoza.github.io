@@ -1,7 +1,7 @@
 title: Ismael Mendoza's Academic Site
 email: imendoza@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write a short description of your academic site here.
+  Personal website of Ismael Mendoza
 baseurl: "" # the subpath of your site, e.g., /blog
 url: "https://ismael-mendoza.github.io" # the base hostname & protocol for your site, e.g., http://example.com
 github_username:  ismael-mendoza

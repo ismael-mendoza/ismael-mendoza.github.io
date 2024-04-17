@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ismael Mendoza's Website
+title: Home
 ---
 
 <p align="center">
