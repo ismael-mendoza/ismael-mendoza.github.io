@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Home Page
+title: Ismael Mendoza's Website
 ---
-
-# Ismael Mendoza's Website
 
 <p align="center">
     <img src="./images/my-picture.jpg" alt="headshot" width="500"/>
