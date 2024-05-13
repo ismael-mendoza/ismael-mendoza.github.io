@@ -41,4 +41,3 @@ permalink: /talks/
 - **The Blending Problem in Cosmology**, Ismael Mendoza, Physics Graduate Student Symposium 2020, Ann Arbor, MI, *July 2020* (virtual)
 
 - **BlendingToolKit: Walkthrough and Future Plans**, Ismael Mendoza, DESC Blending Working Group. *July 2020* (virtual)
-
