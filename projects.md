@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-You can find details about what I'm currently working on here below.
+You can find details about what I'm currently working on below.
 
 ## Statistcal framework for Galaxy-Halo Connection on N-body Simulations
 
@@ -12,7 +12,7 @@ You can find details about what I'm currently working on here below.
 of dark matter haloes with properties of galaxies.
 
 <p align="center">
-    <img src="./images/multicam.png" alt="multicam" width="400"/>
+    <img src="./images/multicam.jpg" alt="multicam" width="400"/>
 </p>
 
 *Above is a demonstration of the correlation strength between predictions of MultiCAM and CAM, where MultiCAM use the full mass accretion history (MAH) of a dark matter halo as features for prediction.*
