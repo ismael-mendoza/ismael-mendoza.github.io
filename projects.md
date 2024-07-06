@@ -6,9 +6,17 @@ permalink: /projects/
 
 You can find details about what I have worked on most recently below.
 
-## Statistcal framework for Galaxy-Halo Connection on N-body Simulations
+## Shear Inference with Hamiltonian Monte Carlo
 
-- I developed [MultiCAM](https://github.com/ismael-mendoza/multicam), a multi-variable extension to conditional abundance matching (CAM) that can be used to connect properties
+- We leverage JAX-GalSim to Michael Schneider's importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian pipeline for cosmic shear inference.
+
+## Differentiable Forward Models of Galaxy Light Profiles
+
+- We developed [JAX-GalSim](https://github.com/GalSim-developers/JAX-GalSim), a GPU-accelerated and differentiable version of [GalSim](https://github.com/GalSim-developers/GalSim), which is currently under active development.
+
+## Statistical framework for Galaxy-Halo Connection on N-body Simulations
+
+- We developed [MultiCAM](https://github.com/ismael-mendoza/multicam), a multi-variable extension to conditional abundance matching (CAM) that can be used to connect properties
 of dark matter haloes with properties of galaxies.
 
 <p align="center">
@@ -17,9 +25,9 @@ of dark matter haloes with properties of galaxies.
 
 *Above is a comparison of the correlation strength between predictions of MultiCAM and CAM, where MultiCAM can use the full mass accretion history (MAH) of a dark matter haloes as features for prediction.*
 
-## Machine Learning models for mitigating the galaxy-galaxy blending problem in cosmology
+## Machine Learning models for mitigating the galaxy-galaxy blending problem in cosmological surveys
 
-- I developed [BLISS](https://github.com/prob-ml/bliss) a machine learning model for probablistic inference of galaxy properties specifically targeted at blended galaxy fields.
+- We developed [BLISS](https://github.com/prob-ml/bliss) a machine learning model for probablistic inference of galaxy properties specifically targeted at blended galaxy fields.
 
 <p align="center">
     <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bliss.jpg?raw=true" alt="bliss" width="600"/>
@@ -29,7 +37,7 @@ of dark matter haloes with properties of galaxies.
 
 ## Framework for evaluating galaxy deblending algorithms
 
-- I developed [BTK](https://github.com/LSSTDESC/BlendingToolKit) a software tool for simulating galaxy blends and consistent comparing galaxy deblenders based onv various metrics.
+- We developed [BTK](https://github.com/LSSTDESC/BlendingToolKit) a software tool for simulating galaxy blends and consistent comparing galaxy deblenders based onv various metrics.
 
 <p align="center">
     <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/btk.jpg?raw=true" alt="btk" width="550"/>
