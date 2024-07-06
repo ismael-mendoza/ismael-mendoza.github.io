@@ -6,15 +6,15 @@ permalink: /projects/
 
 You can find details about what I have worked on most recently below.
 
-## Shear Inference with Hamiltonian Monte Carlo
+### Shear Inference with Hamiltonian Monte Carlo
 
 - We leverage JAX-GalSim to Michael Schneider's importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian pipeline for cosmic shear inference.
 
-## Differentiable Forward Models of Galaxy Light Profiles
+### Differentiable Forward Models of Galaxy Light Profiles
 
 - We developed [JAX-GalSim](https://github.com/GalSim-developers/JAX-GalSim), a GPU-accelerated and differentiable version of [GalSim](https://github.com/GalSim-developers/GalSim), which is currently under active development.
 
-## Statistical framework for Galaxy-Halo Connection on N-body Simulations
+### Statistical framework for Galaxy-Halo Connection on N-body Simulations
 
 - We developed [MultiCAM](https://github.com/ismael-mendoza/multicam), a multi-variable extension to conditional abundance matching (CAM) that can be used to connect properties
 of dark matter haloes with properties of galaxies.
@@ -25,7 +25,7 @@ of dark matter haloes with properties of galaxies.
 
 *Above is a comparison of the correlation strength between predictions of MultiCAM and CAM, where MultiCAM can use the full mass accretion history (MAH) of a dark matter haloes as features for prediction.*
 
-## Machine Learning models for mitigating the galaxy-galaxy blending problem in cosmological surveys
+### Machine Learning models for mitigating the galaxy-galaxy blending problem in cosmological surveys
 
 - We developed [BLISS](https://github.com/prob-ml/bliss) a machine learning model for probablistic inference of galaxy properties specifically targeted at blended galaxy fields.
 
@@ -35,7 +35,7 @@ of dark matter haloes with properties of galaxies.
 
 *This figure showcases the overall structure of the BLISS inference pipeline.*
 
-## Framework for evaluating galaxy deblending algorithms
+### Framework for evaluating galaxy deblending algorithms
 
 - We developed [BTK](https://github.com/LSSTDESC/BlendingToolKit) a software tool for simulating galaxy blends and consistent comparing galaxy deblenders based onv various metrics.
 
