@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-You can find details about what I'm currently working on below.
+You can find details about what I have worked on most recently below.
 
 ## Statistcal framework for Galaxy-Halo Connection on N-body Simulations
 
