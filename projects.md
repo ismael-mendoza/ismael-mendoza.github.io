@@ -22,12 +22,10 @@ of dark matter haloes with properties of galaxies.
 - I developed [BLISS](https://github.com/prob-ml/bliss) a machine learning model for probablistic inference of galaxy properties specifically targeted at blended galaxy fields.
 
 <p align="center">
-    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bliss.jpg?raw=true" alt="multicam" width="400"/>
+    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bliss.jpg?raw=true" alt="bliss" width="400"/>
 </p>
 
 *This figure showcases the overall structure of the BLISS inference pipeline.*
-
-
 
 ## Framework for evaluating galaxy deblending algorithms
 
