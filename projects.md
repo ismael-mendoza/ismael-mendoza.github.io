@@ -20,7 +20,7 @@ You can find details about what I have worked on most recently below.
 of dark matter haloes with properties of galaxies.
 
 <p align="center">
-    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/multicam.jpg?raw=true" alt="multicam" width="400"/>
+    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/multicam.jpg?raw=true" alt="multicam" width="500"/>
 </p>
 
 *Above is a comparison of the correlation strength between predictions of MultiCAM and CAM, where MultiCAM can use the full mass accretion history (MAH) of a dark matter haloes as features for prediction.*
@@ -40,7 +40,7 @@ of dark matter haloes with properties of galaxies.
 - We developed [BTK](https://github.com/LSSTDESC/BlendingToolKit) a software tool for simulating galaxy blends and consistent comparing galaxy deblenders based onv various metrics.
 
 <p align="center">
-    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/btk.jpg?raw=true" alt="btk" width="550"/>
+    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/btk.jpg?raw=true" alt="btk" width="600"/>
 </p>
 
 *This figure compares the reconstruction quality of individual galaxies from SExtractor and Scarlet when applied to simulated galaxy blends produced by BTK. The three metrics have been previously used in galaxy blending literature.*
