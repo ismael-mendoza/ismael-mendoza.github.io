@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- **Mendoza, I.**<sup>\*</sup>, Torchylo A.<sup>\*</sup>, Sainrat T., et al., "The Blending ToolKit: A simulation framework for evaluation of galaxy detection and deblending". arXiv preprint [arXiv:2409.06986](https://arxiv.org/abs/2409.06986).
+- **Mendoza, I.**<sup>\*</sup>, Torchylo A.<sup>\*</sup>, Sainrat T., et al., "The Blending ToolKit: A simulation framework for evaluation of galaxy detection and deblending". arXiv preprint [arXiv:2409.06986](https://arxiv.org/abs/2409.06986). Submitted to OJA.
 
 - **Mendoza, I.**, Mansfield, P., Wang, K., Avestruz, C., "MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties". *Monthly Notices of the Royal Astronomical Society*, Volume 523, Issue 4, August 2023, Pages 6386–6400, <https://doi.org/10.1093/mnras/stad1768>.
 
