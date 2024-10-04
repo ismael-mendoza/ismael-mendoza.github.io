@@ -8,7 +8,7 @@ You can find details about what I have worked on most recently below.
 
 ### Shear Inference with Hamiltonian Monte Carlo
 
-- We leverage JAX-GalSim together with Michael Schneider's importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian pipeline for cosmic shear inference.
+- We leverage JAX-GalSim together with Michael Schneider's importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian method for cosmic shear inference.
 
 ### Differentiable Forward Models of Galaxy Light Profiles
 
