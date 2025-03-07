@@ -3,8 +3,3 @@
     gap: 10px; /* Adds proper spacing between links */
   }
 
-  .page-link {
-    text-decoration: none; /* Keeps it clean */
-    color: inherit; /* Uses Minima’s default colors */
-    padding: 5px 10px; /* Adds a clickable area */
-  }
