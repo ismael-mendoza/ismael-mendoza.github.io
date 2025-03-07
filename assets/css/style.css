@@ -1,0 +1,4 @@
+.page-link {
+    margin-right: 15px; /* Adjust spacing between navigation links */
+    display: inline-block; /* Ensure links stay separated */
+  }
