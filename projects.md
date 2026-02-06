@@ -6,24 +6,14 @@ permalink: /projects/
 
 You can find details about what I have worked on most recently below.
 
-### Shear Inference with Hamiltonian Monte Carlo
+### Bayesian Shear Inference with Differentiable Forward Modeling
 
-- We leverage JAX-GalSim together with Schneider et al.'s importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian method for cosmic shear inference.
+- We leverage JAX-GalSim together with Schneider et al.'s importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian algorithm for cosmic shear inference.
 
 ### Differentiable Forward Models of Galaxy Light Profiles
 
-- We developed [JAX-GalSim](https://github.com/GalSim-developers/JAX-GalSim), a GPU-accelerated and differentiable version of [GalSim](https://github.com/GalSim-developers/GalSim), which is currently under active development.
+- I lead the development [JAX-GalSim](https://github.com/GalSim-developers/JAX-GalSim), a GPU-accelerated and differentiable version of [GalSim](https://github.com/GalSim-developers/GalSim), which is currently under active development.
 
-### Statistical framework for Galaxy-Halo Connection on N-body Simulations
-
-- We developed [MultiCAM](https://github.com/ismael-mendoza/multicam), a multi-variable extension to conditional abundance matching (CAM) that can be used to connect properties
-of dark matter haloes with properties of galaxies.
-
-<p align="center">
-    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/multicam.jpg?raw=true" alt="multicam" width="500"/>
-</p>
-
-*Above is a comparison of the correlation strength between predictions of MultiCAM and CAM, where MultiCAM can use the full mass accretion history (MAH) of a dark matter haloes as features for prediction.*
 
 ### Machine Learning models for mitigating the galaxy-galaxy blending problem in cosmological surveys
 
@@ -35,9 +25,20 @@ of dark matter haloes with properties of galaxies.
 
 *This figure showcases the overall structure of the BLISS inference pipeline.*
 
+
+### Statistical framework for Galaxy-Halo Connection on N-body Simulations
+
+- I developed [MultiCAM](https://github.com/ismael-mendoza/multicam), a multi-variable extension to conditional abundance matching (CAM) that can be used to connect properties of dark matter haloes with properties of galaxies.
+
+<p align="center">
+    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/multicam.jpg?raw=true" alt="multicam" width="500"/>
+</p>
+
+*Above is a comparison of the correlation strength between predictions of MultiCAM and CAM, where MultiCAM can use the full mass accretion history (MAH) of a dark matter haloes as features for prediction.*
+
 ### Framework for evaluating galaxy deblending algorithms
 
-- We developed [BTK](https://github.com/LSSTDESC/BlendingToolKit) a software tool for simulating galaxy blends and consistent comparing galaxy deblenders based onv various metrics.
+- I lead the development of [BTK](https://github.com/LSSTDESC/BlendingToolKit) a software tool for simulating galaxy blends and consistent comparing galaxy deblenders based onv various metrics.
 
 <p align="center">
     <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/btk.jpg?raw=true" alt="btk" width="600"/>
