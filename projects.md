@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-You can find details about what I have worked on most recently below.
+You can find details about current and recent projects below.
 
 ### Bayesian Shear Inference with Differentiable Forward Modeling
 
