@@ -4,11 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-- **Mendoza, I.**<sup>\*</sup>, Torchylo A.<sup>\*</sup>, Sainrat T., et al., "The Blending ToolKit: A simulation framework for evaluation of galaxy detection and deblending". arXiv preprint [arXiv:2409.06986](https://arxiv.org/abs/2409.06986). Submitted to OJA.
+- **Mendoza, I.**, Guinot, A., Avestruz, C., Campagne, J.E., Schneider, M., Tsaprazi, E., Porqueres, N., Becker, M., for the LSST Dark Energy Collaboration, "Differentiable Forward Modeling for Efficient and Accurate Shear Inference". Submitted to the Dark Energy Science Collaboration (DESC) for internal review.
+
+- **Mendoza, I.**, Liu, R., Hansen, D., Zhao, Z., Pang, Z., Avestruz, C., Regier, J., for the LSST Dark Energy Collaboration, "Simulation-Based Inference for Probabilistic Galaxy Detection and Deblending". [arXiv:2601.03422](https://arxiv.org/abs/2601.03422). Submitted to the Open Journal of Astrophysics.
+
+- **Mendoza, I.**<sup>\*</sup>, Torchylo A.<sup>\*</sup>, Sainrat T., et al., "The Blending ToolKit: A simulation framework for evaluation of galaxy detection and deblending". The Open Journal of Astrophysics. <https://doi.org/10.33232/001c.129699>.
 
 - **Mendoza, I.**, Mansfield, P., Wang, K., Avestruz, C., "MultiCAM: A multivariable framework for connecting the mass accretion history of haloes with their properties". *Monthly Notices of the Royal Astronomical Society*, Volume 523, Issue 4, August 2023, Pages 6386–6400, <https://doi.org/10.1093/mnras/stad1768>.
-
-- **Mendoza, I.**, Liu, R., Hansen, D., Zhao, Z., Pang, Z., Avestruz, C., Regier, J., and LSST Dark Energy Collaboration, "Simulation-Based Inference for Probabilistic Light Source Detection, Deblending, and Measurement". Submitted to the Dark Energy Science Collaboration (DESC) for internal review.
 
 - Wang M.<sup>\*</sup>, **Mendoza I.**<sup>\*</sup>, Wang C., Avestruz C., Regier J., "Statistical Inference for Coadded Astronomical Images". [arXiv:2211.09300](https://arxiv.org/abs/2211.09300). Accepted to the *Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems (NeurIPS)*.
 
