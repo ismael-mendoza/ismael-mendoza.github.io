@@ -15,7 +15,6 @@ You can find details about current and recent projects below.
 </p>
 
 
-
 ### Differentiable Forward Models of Galaxy Light Profiles
 
 - I lead the development [JAX-GalSim](https://github.com/GalSim-developers/JAX-GalSim), a GPU-accelerated and differentiable version of [GalSim](https://github.com/GalSim-developers/GalSim), which is currently under active development.

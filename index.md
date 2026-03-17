@@ -23,5 +23,4 @@ publications, and more:
 ## Contact and personal links
 
 - **Email**: <ismael@umd.edu>
-
 - **ORCID**: <https://orcid.org/0000-0002-6313-4597>
