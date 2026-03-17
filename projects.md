@@ -8,7 +8,13 @@ You can find details about current and recent projects below.
 
 ### Bayesian Shear Inference with Differentiable Forward Modeling
 
-- We leverage JAX-GalSim together with Schneider et al.'s importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new Bayesian algorithm for cosmic shear inference.
+- We leverage the differentiable forward model of galaxies from JAX-GalSim, gradient based samplers, GPUs, and Schneider et al.'s importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new efficient Bayesian algorithm for measuring cosmic shear.
+
+<p align="center">
+    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bpd.png?raw=true" alt="pgm" width="600"/>
+</p>
+
+
 
 ### Differentiable Forward Models of Galaxy Light Profiles
 
