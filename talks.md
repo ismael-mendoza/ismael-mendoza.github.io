@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+- **Methods for Blended Galaxies' Systematics in the Era of LSST**, Ismael Mendoza, Invited talk at the Korean Rubin Science Collaboration (KRSC), KRSC Extended Group Meeting on Cosmology with Rubin, Virtual, *September 2025*
+
 - **The Blending Problem in Cosmology**, Ismael Mendoza, Invited talk at the KIPAC Tea, Kavli Institute for Particle Astrophysics and Cosmology at Stanford University, Stanford, CA, *July 2023*
 
 - **Bayesian Light Source Separator (BLISS): Probabilistic detection, deblending and measurement of astronomical light sources**, Ismael Mendoza, Invited talk at Statistical Challenges in Modern Astronomy VIII, Pennsylvania State University, State College, PA, *June 2023*
@@ -28,7 +30,7 @@ permalink: /talks/
 
 - **Bayesian Light Source Separator (BLISS)**, Ismael Mendoza, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting Poster Session, *July 2021* (virtual)
 
-- **(Updated) Blending ToolKit Tutorial**, Ismael Mendoza, Thomas Sainrat, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting, *July 2021* (virtual)
+- **(Updated) Blending ToolKit Tutorial**, Ismael Mendoza and Thomas Sainrat, Dark Energy Science Collaboration (DESC) Summer 2021 Virtual Meeting, *July 2021* (virtual)
 
 - **Connecting the Properties of Dark Matter Haloes with Their Growth**, Ismael Mendoza, University of Michigan Clusters Group, Ann Arbor, MI, *March 2021* (virtual)
 
