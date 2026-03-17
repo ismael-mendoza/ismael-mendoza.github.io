@@ -23,4 +23,5 @@ publications, and more:
 ## Contact and personal links
 
 - **Email**: <ismael@umd.edu>
+- **Github Profile**: <https://github.com/ismael-mendoza>
 - **ORCID**: <https://orcid.org/0000-0002-6313-4597>
