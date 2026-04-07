@@ -3,6 +3,10 @@ layout: home
 title: Home
 ---
 
+<style>
+span.email > span:nth-child(2) { display: none; }
+</style>
+
 <p align="center">
     <img src="./images/my-picture.jpg" alt="headshot" width="500"/>
 </p>
@@ -22,6 +26,7 @@ publications, and more:
 
 ## Contact and personal links
 
-- **Email**: <ismael@umd.edu>
 - **Github Profile**: <https://github.com/ismael-mendoza>
 - **ORCID**: <https://orcid.org/0000-0002-6313-4597>
+- **Email:** <span class="email">ismael@<span>umd</span>.<span>physics</span>edu</span>
+
