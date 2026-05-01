@@ -10,13 +10,11 @@ You can find details about current and recent projects below.
 
 - We leverage the differentiable forward model of galaxies from JAX-GalSim, gradient based samplers, GPUs, and Schneider et al.'s importance sampling [approach](https://arxiv.org/abs/1411.2608) to develop a new efficient Bayesian algorithm for measuring cosmic shear.
 
-<p align="left">
-    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bpd1.png?raw=true" alt="pgm" width="350"/>
+<p float="center">
+  <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bpd1.png?raw=true" width="200" alt="pgm" />
+  <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bpd2.png?raw=true" width="200" alt="countours" /> 
 </p>
 
-<p align="right">
-    <img src="https://github.com/ismael-mendoza/ismael-mendoza.github.io/blob/main/images/bpd2.png?raw=true" alt="contours" width="350"/>
-</p>
 
 ### Differentiable Forward Models of Galaxy Light Profiles
 
