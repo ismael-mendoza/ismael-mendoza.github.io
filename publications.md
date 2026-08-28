@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- **Mendoza I**, Guinot A, Becker M, et al. "Differentiable Forward Modeling for Efficient and Accurate Shear Inference". Submitted to the *The Open Journal of Astrophysics*. <https://doi.org/10.48550/arXiv.2604.22048>.
+- **Mendoza I**, Guinot A, Becker M, et al. "Differentiable Forward Modeling for Efficient and Accurate Shear Inference". *The Open Journal of Astrophysics*. <https://doi.org/10.33232/001c.168201>.
 
 - **Mendoza I**, Hansen D, et al. (2026) "Simulation-Based Inference for Probabilistic Galaxy Detection and Deblending." *The Open Journal of Astrophysics*. <https://doi.org/10.33232/001c.158908>.
 
